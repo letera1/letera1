@@ -6,7 +6,7 @@
      <h1 align="center">
             <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Letera+Tujo!+💥;+✨+Software+Engineering+Student!+🎉;" />
         </h1>
-   <h3 align="center">I'm a passionate Web Developer.</h3>
+   <h3 align="center">I'm a Passionate Web Developer and Prompt Engineer.</h3>
     </div>
 </div>
 
