@@ -13,7 +13,7 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 
 🔭 **Currently working on**: Next.js full-stack applications with AI integration  
 🌱 **Mastering**: Cloud Architecture (AWS/Azure) & Advanced React Patterns  
-🎯 **2024 Goals**: Contribute to 10+ open-source projects & earn AWS Certification  
+🎯 **2030 Goals**: Contribute to 10+ open-source projects & earn AWS Certification  
 💡 **Fun fact**: I can solve a Rubik's cube in under 2 minutes!  
 
 ---
