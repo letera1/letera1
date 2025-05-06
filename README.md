@@ -32,48 +32,20 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 
 ### 💡 Core Languages
 - Python  
-- JavaScript  
-- TypeScript  
+- JavaScript    
 - Java  
-- C++  
-
 ### 🌐 Web Development
 - React  
 - Next.js  
 - Node.js  
 - Django  
 - Tailwind CSS  
-
 ### 🛢 Databases
-- MongoDB  
-- PostgreSQL  
+- MongoDB   
 - Firebase  
 - My sql
 ### 🎨 Design Tools
-- Figma  
-- Adobe XD  
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letera1&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letera1&layout=compact&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letera1&theme=tokyonight" />
-</div>
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Hackathon Winner** - Developed an AI-powered educational platform (2023)  
-- 📜 **Google Cloud Certified** - Associate Cloud Engineer  
-- 🏅 **LeetCode** - Top 10% in Algorithm Challenges  
-- 🚀 **Published Developer** - 5+ apps on Play Store with 10k+ downloads  
-- 🏆 **GitHub Star** - Featured in "Awesome Developers to Follow" list  
-
----
-
+- Figma 
 ## 🌟 Featured Projects
 
 ### 1. AI-Powered Code Review Assistant 🤖
@@ -123,7 +95,6 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 <!-- BLOG-POST-LIST:START -->
 - **Building Scalable Microservices with Node.js**  
 - **The Future of AI in Web Development**  
-- **10 Tips for Junior Developers in 2024**  
 <!-- BLOG-POST-LIST:END -->
 
 ---
