@@ -51,9 +51,9 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 
 <div align="center">
   <a href="https://www.linkedin.com/in/letera-tujo-b41009291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-delta-beige-42.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:leteratujo890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dev.to/letera1" target="_blank"><img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://vercel.com/letera-tujo-projects" target="_blank"><img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </div>
 
 ---
