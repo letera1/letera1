@@ -46,33 +46,11 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 - My sql
 ### 🎨 Design Tools
 - Figma 
-## 🌟 Featured Projects
-
-### 1. AI-Powered Code Review Assistant 🤖
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/letera1/ai-code-review?style=social)  
-🕒 **Last Commit:** ![GitHub last commit](https://img.shields.io/github/last-commit/letera1/ai-code-review)  
-✅ **Tech Used:** Next.js, Python, OpenAI API, FastAPI, PostgreSQL  
-🔗 [Live Demo](#) | [Repository](#)  
-
-### 2. EcoTrack - Sustainability Dashboard 🌱
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/letera1/ecotrack?style=social)  
-🐞 **Issues:** ![GitHub issues](https://img.shields.io/github/issues/letera1/ecotrack)  
-📊 **Tech Used:** Django, Chart.js, IoT Integration  
-🔗 [Case Study](#) | [Repository](#)  
-
-### 3. VR Learning Platform 🕶️
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/letera1/vr-learning?style=social)  
-📜 **License:** ![GitHub](https://img.shields.io/github/license/letera1/vr-learning)  
-🎮 **Tech Used:** Three.js, WebXR, Node.js  
-🔗 [Demo Video](#) | [Repository](#)  
-
----
 
 ## 📬 Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/letera1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/letera1" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:leteratujo890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://dev.to/letera1" target="_blank"><img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
