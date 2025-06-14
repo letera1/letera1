@@ -12,10 +12,6 @@
 I'm a passionate **Software Engineering Student** with expertise in both frontend and backend development. My journey in tech is driven by curiosity and the desire to build solutions that make an impact.
 
 🔭 **Currently working on**: Next.js full-stack applications with AI integration  
-🌱 **Mastering**: Cloud Architecture (AWS/Azure) & Advanced React Patterns  
-🎯 **2030 Goals**: Contribute to 10+ open-source projects & earn AWS Certification  
-💡 **Fun fact**: I can solve a Rubik's cube in under 2 minutes!  
-
 ---
 
 ## 📊 Weekly Development Breakdown
@@ -33,7 +29,8 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 ### 💡 Core Languages
 - Python  
 - JavaScript    
-- Java  
+- Java
+- C++ 
 ### 🌐 Web Development
 - React  
 - Next.js  
@@ -67,17 +64,3 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 - 📢 **Speaking Engagements** at tech conferences/meetups  
 
 ---
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- **Building Scalable Microservices with Node.js**  
-- **The Future of AI in Web Development**  
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📊 Visitor Count
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=letera1.letera1)
-
