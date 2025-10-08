@@ -1,7 +1,7 @@
-# 💻 Letera Tujo | Software Developer & Tech Enthusiast 🚀
+# 💻 Letera Tujo | Software Engineer & Tech Enthusiast 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&lines=👋;Welcome+to+my+GitHub+Profile!;Software+Engineer+⚡;Full-Stack+Developer+💻;Tech+Innovator+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&lines=👋;Welcome+to+my+GitHub+Profile!;Software+Engineer+⚡;Full-Stack+Developer+💻;Tech+Innovator+✨" alt="TypingSVG" />
   
 </div>
 
