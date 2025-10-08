@@ -30,13 +30,15 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 - Python  
 - JavaScript    
 - Java
-- C++ 
+- C++
+- Dart
 ### 🌐 Web Development
 - React  
 - Next.js  
 - Node.js  
-- Django  
-- Tailwind CSS  
+- Larvel  
+- Tailwind CSS
+- Django 
 ### 🛢 Databases
 - MongoDB   
 - Firebase  
