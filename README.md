@@ -12,39 +12,35 @@
 I'm a passionate **Software Engineering Student** with expertise in both frontend and backend development. My journey in tech is driven by curiosity and the desire to build solutions that make an impact.
 
 🔭 **Currently working on**: Next.js full-stack applications with AI integration  
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-💻 Coding:          18 hrs ███████████████████░░░░░ 85% 
-📚 Learning:         3 hrs ████░░░░░░░░░░░░░░░░░░░░ 10% 
-✍️ Technical Writing: 2 hrs ██░░░░░░░░░░░░░░░░░░░░░░ 5%
-```
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack  
 
-### 💡 Core Languages
-- Python  
-- JavaScript    
-- Java
-- C++
-- Dart
-### 🌐 Web Development
-- React  
-- Next.js  
-- Node.js  
-- Larvel  
-- Tailwind CSS
-- Django 
-### 🛢 Databases
-- MongoDB   
-- Firebase  
-- My sql
-### 🎨 Design Tools
-- Figma 
+### 💡 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Frontend & Backend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🛢️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Design & Tools  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
 
 ## 📬 Let's Connect!
 
@@ -56,6 +52,35 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 </div>
 
 ---
+## 📊 GitHub Analytics  
+
+<div align="center">
+
+![Letera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=letera1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=letera1&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=letera1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=letera1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown  
+
+```text
+💻 Coding          ████████████████████░░░░░   85%  (18 hrs)  
+📚 Learning        ███░░░░░░░░░░░░░░░░░░░░░░   10%  (3 hrs)  
+✍️ Writing         ██░░░░░░░░░░░░░░░░░░░░░░░    5%  (2 hrs)
+```
 
 ## 🎯 What I'm Looking For
 
