@@ -62,26 +62,6 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 
 </div>
 
----
-
-## 🏆 GitHub Trophies  
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=letera1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
-## 📈 Weekly Development Breakdown  
-
-```text
-💻 Coding          ████████████████████░░░░░   85%  (18 hrs)  
-📚 Learning        ███░░░░░░░░░░░░░░░░░░░░░░   10%  (3 hrs)  
-✍️ Writing         ██░░░░░░░░░░░░░░░░░░░░░░░    5%  (2 hrs)
-```
-
 ## 🎯 What I'm Looking For
 
 - 🔍 **Internship/Job Opportunities** in Software Development  
