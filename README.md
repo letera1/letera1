@@ -52,16 +52,6 @@ I'm a passionate **Software Engineering Student** with expertise in both fronten
 </div>
 
 ---
-## 📊 GitHub Analytics  
-
-<div align="center">
-
-![Letera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=letera1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=letera1&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=letera1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🎯 What I'm Looking For
 
 - 🔍 **Internship/Job Opportunities** in Software Development  
