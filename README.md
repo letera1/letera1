@@ -11,7 +11,7 @@
 
 I'm a passionate **Software Engineering Student** with expertise in both frontend and backend development. My journey in tech is driven by curiosity and the desire to build solutions that make an impact.
 
-🔭 **Currently working on**: Next.js full-stack applications with AI integration  
+🔭 **Currently working on**: Full-stack applications with AI integration  
 
 ---
 
