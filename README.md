@@ -1,4 +1,4 @@
-# 💻 Letera Tujo | Software Engineer & Tech Enthusiast 🚀
+# 💻 Letera Tujo | Software Engineer 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&lines=👋;Welcome+to+my+GitHub+Profile!;Software+Engineer+⚡;Full-Stack+Developer+💻;Tech+Innovator+✨" alt="TypingSVG" />
@@ -6,25 +6,14 @@
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
 # Full Stack Developer & Machine Learning Engineer  
-
-Hi, I'm **Letera** 👋  
-
 I design and develop scalable web and mobile applications using **React, Next.js, Node.js, Laravel, Go, and Flutter**, delivering fast, secure, and production-ready solutions.
-
 I also work with **Artificial Intelligence and Machine Learning** using **Python, TensorFlow, PyTorch, and Scikit-learn** to transform data into intelligent, practical business solutions.
-
 My focus is clean architecture, high performance, scalability, and building technology that solves real-world problems while driving measurable value.
 
 🔭 **Currently working on**: Full-stack applications with AI integration  
-
 ---
-
 ## ⚙️ Tech Stack  
-
 ### 💡 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -56,15 +45,14 @@ My focus is clean architecture, high performance, scalability, and building tech
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 ## 📬 Let's Connect!
-
 <div align="center">
   <a href="https://www.linkedin.com/in/letera-tujo-b41009291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://portfolio-delta-beige-42.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:leteratujo890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://vercel.com/letera-tujo-projects" target="_blank"><img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
+
 ---
 ## 🎯 What I'm Looking For
 
