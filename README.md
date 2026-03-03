@@ -7,9 +7,9 @@
 
 ---
 # Full Stack Developer & Machine Learning Engineer  
-I design and develop scalable web and mobile applications using **React, Next.js, Node.js, Laravel, Go, and Flutter**, delivering fast, secure, and production-ready solutions.
+I design and develop scalable web and mobile applications using **React, Next.js, Node.js, Laravel, Go, and Flutter**, delivering fast, secure, and production ready solutions.
 I also work with **Artificial Intelligence and Machine Learning** using **Python, TensorFlow, PyTorch, and Scikit-learn** to transform data into intelligent, practical business solutions.
-My focus is clean architecture, high performance, scalability, and building technology that solves real-world problems while driving measurable value.
+My focus is clean architecture, high performance, scalability, and building technology that solves real world problems while driving measurable value.
 
 🔭 **Currently working on**: Full-stack applications with AI integration  
 ---
