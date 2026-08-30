@@ -1,73 +1,57 @@
-# 💻 Letera Tujo | Software Engineer 
+# 👨‍💻 Letera Tujo Birri
+### Software Engineer · Full-Stack & AI/ML · Technical Lead
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&lines=👋;Welcome+to+my+GitHub+Profile!;Software+Engineer+⚡;Full-Stack+Architecture+💻;AI+%26+Machine+Learning+✨;Project+Team+Lead+🚀" alt="TypingSVG" />
-</div>
-
----
-## Full Stack Developer & Machine Learning Engineer  
-
-I design and develop scalable web applications using **React, Next.js, Node.js, NestJS, Laravel, and Go**. My focus is on clean architecture, high performance, and delivering secure, production-ready platforms that adhere to industry standards (like IEEE documentation).
-
-Alongside full-stack engineering, I specialize in **Artificial Intelligence and Machine Learning**. Leveraging **Python, TensorFlow, PyTorch, and Scikit-learn**, I transform raw data into intelligent, practical business solutions through precise data preprocessing, feature engineering, and model evaluation.
-
-🔭 **Currently working on**: AI-powered enterprise applications & scalable full-stack infrastructure.
----
-
-## ⚙️ Comprehensive Tech Stack  
-
-### 💡 Core Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & Architecture
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=Postman&logoColor=white)
-
-### 🤖 AI & Machine Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 🛢️ Databases & Infrastructure  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🎨 Tools & Collaboration  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/letera-tujo-b41009291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.leteratujo.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:leteratujo890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
-## 📬 Let's Connect
-<div align="center">
-  <a href="https://www.linkedin.com/in/letera-tujo-b41009291?" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.leteratujo.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:leteratujo890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+
+### 📌 About Me
+Software Engineer with expertise in building scalable full-stack applications, intelligent AI/ML systems, and leading engineering teams. Experienced in architecting secure web platforms, designing data pipelines, and authoring production-grade software specifications under **IEEE Std 1016-2009** standards.
+
+- 🔭 **Focus**: Scalable distributed backends, modern React/Next.js architectures, and practical ML integration.
+- 💼 **Track Record**: Contributed to production systems at **INSA**, **Kuraz Tech**, and **MInT** (Ministry of Innovation and Technology).
+- 👥 **Leadership**: Project Team Lead at **HUCISA**, guiding cross-functional teams from design to delivery.
 
 ---
-## 🎯 What I'm Looking For
 
-- 🔍 **Full-time / Contract Opportunities** in Software Engineering or ML  
-- 🤝 **Collaborations** on innovative AI projects  
-- 🌍 **Open Source Contributions** to data-driven tools  
-- 💡 **Mentorship** and technical leadership opportunities
+### 🛠️ Technical Arsenal
+
+- **Languages:**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+- **Frontend:**  
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+- **Backend & APIs:**  
+  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
+
+- **AI & Machine Learning:**  
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+- **Database & Infrastructure:**  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+  ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🤝 Let's Connect
+Looking to collaborate on innovative full-stack platforms, machine learning solutions, or open-source software. Reach out via [LinkedIn](https://www.linkedin.com/in/letera-tujo-b41009291) or [Email](mailto:leteratujo890@gmail.com).
