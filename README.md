@@ -1,4 +1,4 @@
-### Software Engineer · Full-Stack, Backend & Machine Learning · Technical Lead
+### Software Engineer · Full-Stack, Backend & Machine Learning · Technical Leader
 
 <p align="left">
   <a href="https://www.leteratujo.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-leteratujo.me-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -9,7 +9,7 @@
 ---
 
 ### 📌 Overview
-Software Engineer specializing in scalable full-stack architectures, high-throughput microservices, and applied AI/ML systems. Experienced in architecting production platforms at **INSA**, **Kuraz Tech**, and **MInT** (Ministry of Innovation & Technology), and leading project teams at **HUCISA**.
+Software Engineer specializing in scalable full-stack architectures, high-throughput microservices, and applied AI/ML systems. Experienced in architecting production platforms at **INSA**, **Kuraz Tech**, **Nile Tech** and **MInT** (Ministry of Innovation & Technology), and leading project teams at **HUCISA**.
 
 ---
 
