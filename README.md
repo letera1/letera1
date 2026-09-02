@@ -1,4 +1,4 @@
-### Software Engineer · Full-Stack, Backend & Machine Learning · Technical Leader
+### Software Engineer · Full-Stack, Backend & Machine Learning · Technical Lead
 
 <p align="left">
   <a href="https://www.leteratujo.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-leteratujo.me-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
